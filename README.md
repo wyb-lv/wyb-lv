@@ -19,12 +19,12 @@
       <b>Frontend Development</b><br>
       Angular, React, React Native, Bootstrap, Tailwind
       <br><br>
-      <b>Backend Development</b><br>
-      Spring Boot, ASP.NET Core, Express.js
-    </td>
-    <td valign="top" width="50%">
       <b>Databases</b><br>
       SQL Server, PostgreSQL, MySQL, Redis, MongoDB, Firebase, Supabase
+    </td>
+    <td valign="top" width="50%">
+      <b>Backend Development</b><br>
+      Spring Boot, ASP.NET Core, Express.js
       <br><br>
       <b>Cloud, Infrastructure & Tools</b><br>
       Docker, Google Cloud Platform (GCP), Postman, Github, Figma, SwaggerUl
