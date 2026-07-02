@@ -10,26 +10,30 @@
 
 ### 🛠️ Tech Stack & Skills
 
-**Programming & Languages**
-* Java, JavaScript, TypeScript, Python, C#
-
-**Frontend Development**
-* Angular, React, React Native, Bootstrap, Tailwind.
-
-**Backend Development**
-* Spring Boot, ASP.NET Core, Express.js.
-
-**Databases**
-* SQL Server, PostgreSQL, MySQL, Redis, MongoDB, Firebase, Supabase.
-
-**Cloud, Infrastructure & Tools**
-* Docker, Google Cloud Platform (GCP).
-* Postman, Github, Figma, SwaggerUl.
-
-**Soft Skills**
-* Teamwork, Problem solving, Critical thinking, Leadership, Agile/Scrum
-
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Programming & Languages</b><br>
+      Java, JavaScript, TypeScript, Python, C#
+      <br><br>
+      <b>Frontend Development</b><br>
+      Angular, React, React Native, Bootstrap, Tailwind
+      <br><br>
+      <b>Backend Development</b><br>
+      Spring Boot, ASP.NET Core, Express.js
+    </td>
+    <td valign="top" width="50%">
+      <b>Databases</b><br>
+      SQL Server, PostgreSQL, MySQL, Redis, MongoDB, Firebase, Supabase
+      <br><br>
+      <b>Cloud, Infrastructure & Tools</b><br>
+      Docker, Google Cloud Platform (GCP), Postman, Github, Figma, SwaggerUl
+      <br><br>
+      <b>Soft Skills</b><br>
+      Teamwork, Problem solving, Critical thinking, Leadership, Agile/Scrum
+    </td>
+  </tr>
+</table>
 
 ### 📈 GitHub Stats
 
