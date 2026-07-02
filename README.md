@@ -42,11 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyb-lv&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=radical" alt="Top Languages" height="195" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wyb-lv&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
 ---
