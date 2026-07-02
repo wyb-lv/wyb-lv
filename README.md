@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyb-lv&layout=compact&theme=radical&hide_border=true&v=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyb-lv&layout=compact&theme=radical&hide_border=true&v=100000" alt="Top Languages" />
 </p>
 
 <p align="center">
