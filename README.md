@@ -3,7 +3,7 @@
 **Software Engineer** | **Backend Architecture & Full-stack Development**
 
 ### 🚀 About Me
-* Detail-oriented Software Engineering student specializing in Backend Architecture and Full-stack Development
+* Detail-oriented Software Engineering specializing in Backend Architecture and Full-stack Development
 * Experienced in building resilient microservices, secure authentication mechanisms, and cloud-native infrastructures.
 
 ---
