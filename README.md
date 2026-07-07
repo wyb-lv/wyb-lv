@@ -38,15 +38,26 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyb-lv&theme=github_dark" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyb-lv&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyb-lv&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyb-lv&theme=github_dark" alt="GitHub Stats" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=github_dark" alt="Top Languages" height="195" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=github_dark" alt="Top Languages" height="195" />
+  </picture>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyb-lv&theme=github_dark&utcOffset=7" alt="Productive Time" height="195" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyb-lv&theme=github_dark&utcOffset=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyb-lv&theme=github&utcOffset=7">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyb-lv&theme=github_dark&utcOffset=7" alt="Productive Time" height="195" />
+  </picture>
 </p>
-
 ---
 
 ### 📫 Let's Connect
