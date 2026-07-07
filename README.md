@@ -1,4 +1,4 @@
-# Hi there, I'm Vu Bao Huy 👋
+# Hi, I'm Bao Huy 👋
 
 **Software Engineer** | **Backend Architecture & Full-stack Development**
 
