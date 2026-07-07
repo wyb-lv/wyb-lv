@@ -38,7 +38,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyb-lv"&theme=nord alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyb-lv"&theme=github_dark alt="GitHub Stats" />
 </p>
 
 <p align="center">
