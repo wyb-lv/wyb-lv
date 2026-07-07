@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wyb-lv&theme=radical" alt="Top Languages" height="195" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyb-lv&theme=radical&v=1" alt="Productive Time" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wyb-lv&theme=github_dark&utcOffset=7" alt="Productive Time" height="195" />
 </p>
 
 ---
